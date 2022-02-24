@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hearers duty a sermon preached at Anne Aldersgate, London at the finishing of the morning execise at that church / by Mr. Christopher Love ...</title>
+            <author>Love, Christopher, 1618-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49248</idno>
+            <idno type="STC">Wing L3160</idno>
+            <idno type="STC">ESTC R234145</idno>
+            <idno type="EEBO-CITATION">17163505</idno>
+            <idno type="OCLC">ocm 17163505</idno>
+            <idno type="VID">106073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1619:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hearers duty a sermon preached at Anne Aldersgate, London at the finishing of the morning execise at that church / by Mr. Christopher Love ...</title>
+                  <author>Love, Christopher, 1618-1651.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Revised and corrected according to his own notes.</edition>
+               </editionStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.C. for George and Henry Eversden ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke XI, 28 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106073:1"/>
+            <p>THE Hearers Duty: A SERMON PREACHED At <hi>Anne Alderſgate London,</hi> at the finiſhing of the <hi>Morning Exerciſe</hi> at the Church.</p>
+            <p>By Mr. <hi>Christopher Love</hi> B. D. and Paſtor thereof.</p>
+            <p>Reviſed and Corrected according to his own Notes.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>E. C.</hi> for <hi>George</hi> and <hi>Henry Everſden</hi> at the <hi>Gray-Hound</hi> in <hi>Pauls-Church-yard.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:106073:2"/>
+            <pb n="3" facs="tcp:106073:2"/>
+            <head>A Sermon Preached at <hi>Anne Alderſgate,</hi> in the time of the <hi>Morning Exerciſe.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>LUKE 11.28.</bibl>
+                  <p>
+                     <hi>But he ſaid, Yea, rather bleſſed are they that hear the Word of God and keep it.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the humanity of Jeſus Chriſt ſuch a luſtre and beauty did ſhine and break forth, that even in ſuch a deſpicable per<g ref="char:EOLhyphen"/>ſon as he was deemed to be, yet the very words which he ſpake, and the works that he did, declared him to be no leſſe then the Son of God; as in <hi>Joh.</hi> 7.46. his very enemies confeſſed
+<pb n="4" facs="tcp:106073:3"/>that <hi>never man ſpake as Chriſt ſpake,</hi> he ſpake better then ever man ſpake, by the words he delivered it was evident he was more then man, but the works which he did, ſpake plainly with an audible voice his divinity. And concerning the miracles which he wrought, it was ſaid of many of them, that <hi>never was it thus done ſince the beginning of the World,</hi> his miracles wrought admiration even in the hearts of thoſe men, in whom they wrought envie and malice againſt him. The miracle ſpeci<g ref="char:EOLhyphen"/>fyed in this Chapter, the diſpoſſeſſing of a dumb man of the Devill; this did ſpread abroad the fame and renown of Chriſt through many parts of the world, and though his enemies were ſo obſtinate, that they would not (notwithſtanding theſe miracles that he wrought) acknowledge his divinity, yet there was a young wo<g ref="char:EOLhyphen"/>man that ſlipt out of all the company and went to Chriſt, and lift up her voice ſaluting him in theſe words, ſaying, <hi>Bleſſed is the womb that bare thee, and the paps which gave thee ſuck;</hi> though the Phariſees would not call him bleſſed, yet this young wo<g ref="char:EOLhyphen"/>man cryed out, <hi>Bleſſed is the womb that bare thee.</hi> And had this commendation been given to another, it might have made him proud, but it works a contrary effect upon Chriſt, he rather gives her a rebuke then any thanks, and tels her, that <hi>rather
+<pb n="5" facs="tcp:106073:3"/>bleſſed are they that hear the Word of God and keep it.</hi> And thus I have brought you to the words of my text. But before I come to give you the doctrine which the words will afford, give me leave to ſpeak ſomething concerning the young womans ſaluting of Chriſt after this manner; the words which ſhe ſpake were a common <hi>pro<g ref="char:EOLhyphen"/>verbe</hi> amongſt the Jews: when any man had done a thing commendable, that was excellent and extraordinary, they would preſently crie out to him, <hi>Bleſſed is the womb that bare thee, and the paps that gave the ſuck;</hi> from whence I would note to you thus much.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">doct. </seg>
+               </label> 
+               <hi>That good Children are a great bleſſing and commendation to their Parents.</hi>
+            </p>
+            <p>And hence it is that you read ſo often in Scripture what a great bleſſing it is for a Father, to be the Father of a good Son; and for a Mother to be the Mother of a good Child, in <hi>Prov.</hi> 10.1. &amp; 15.20. And on the contrary, what a great curſe it is for Parents to bring forth wicked children into the World, a wicked <hi>child is a ſhame to his Father, and a heavineſſe to his Mother that brought him into the World.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> The Uſe I would have you make of this
+doctrine is this:</p>
+            <p>You that have good Children, that are inſtruments of the praiſe and glory of God, bleſſe his name for them; and you
+<pb n="6" facs="tcp:106073:4"/>that have bad children look upon it as a ſtroak of Gods heavy hand upon you; but this is only a point by the way, from the womans ſpeaking thus of Chriſt, <hi>bleſſed is the womb that bare thee, and the paps that gave thee ſuck;</hi> but Chriſt told her, <hi>rather bleſſed are they that hear the Word of God and keep it.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Chriſt ſayes <hi>rather bleſſed,</hi> he does not not ſay that his mother that bare him was not bleſſed, for ſhe did bear him in her heart as well as in her womb: but Chriſt ſpeaks this with a gentle and lo<g ref="char:EOLhyphen"/>ving rebuke to the woman that gave him this commendation; ſayes Chriſt, thou cryeſt out, <hi>bleſſed is the womb that bear thee,</hi> but I ſay, <hi>rather bleſſed are they that hear the Word of God and keep it,</hi> ſo that from hence note, from Chriſts example here,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">doct. </seg>
+               </label> That <hi>you muſt take a great deal of heed tha you be not tickled with pride, when ever you hear your ſelves or yours commended;</hi> you ſee here Chriſt would give no way to their commendations of his mother.</p>
+            <p>And then again, yea <hi>rather bleſſed;</hi> Chriſt ſayes that thoſe are <hi>rather bleſſed that hear the Word of God and keep it,</hi> then his mother that brought him into the world: from whence obſerve,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">doct. </seg>
+               </label> That <hi>a beleever that hears and obeyes Chriſt is rather bleſſed in ſo doing, then the Virgin Mary was meerly in bringing Jeſus Chriſt into the World, though it were the happieſt
+<pb n="7" facs="tcp:106073:4"/>birth that ever Woman brought forth.</hi>
+            </p>
+            <p>And oh how ſhould this be a ſpur to hearers to make them obey and practiſe what they hear!</p>
+            <p>But I ſhall keep you no longer in the entrance into the words, and therefore I ſhall only give you ſomething to note from the manner of the expreſſion that Chriſt here uſeth, and then draw out the doctrine the words will afford. In the form of ſpeech that Chriſt here uſeth, obſerve, it is not ſaid, <hi>bleſſed are they that bear the Word of God,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> there are many forts of hearers that come ſhort of bleſſing, <hi>but bleſ<g ref="char:EOLhyphen"/>ſed are they that hear the word of God and keep it.</hi>
+            </p>
+            <p>There are 4. ſorts of hearers, ſpoken of in <hi>Mat.</hi> 13. and three of them are bad, and but one good, that hears the Word aright; all that hear the Word doe not obtain a bleſſing.</p>
+            <p n="1">(1) It is not ſaid,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> Bleſſed are they that hear, but, Bleſſed are they that <hi>hear</hi> and <hi>keep</hi> what they do hear.</p>
+            <p n="2">(2) It is not ſaid,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> Bleſſed are they that <hi>beleeve</hi> (obſerve that) though this be true, yet it is not ſaid ſo, leſt men ſhould think that a bare and naked beleeving were enough to entitle them to bleſſedneſſe: there are many men that pretend to faith and aſſurance, and yet live above duties, above hearing, and praying, &amp;c. and there<g ref="char:EOLhyphen"/>fore Chriſt ſayes not, Bleſſed are they that
+<pb n="8" facs="tcp:106073:5"/>beleeve, but they that <hi>hear</hi> the Word and <hi>keep</hi> it.</p>
+            <p n="3">(3) It is not ſaid,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> Bleſſed are they that keep the Word in a disjunction from hea<g ref="char:EOLhyphen"/>ring, but they that keep the Word in a conjunction with hearing, bleſſed are you that hear and keep. There are many men that pretend to be high flown in their practiſe, and to keep what Chriſt com<g ref="char:EOLhyphen"/>mands them, but yet it is a disjunctive obe<g ref="char:EOLhyphen"/>dience, they will not hear; thoſe are only bleſſed in Chriſts eſteem, that <hi>keep</hi> and <hi>hear</hi> the Word of God.</p>
+            <p n="4">(4) It is not ſaid here in the text,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> Bleſſed ſhall they be that <hi>hear</hi> and <hi>keep</hi> the Word of God, but bleſſed are they that <hi>hear</hi> and <hi>keep</hi> the Word; thou ſhalt not only be a bleſſed man when thou comeſt to heaven, but thou art a bleſſed man whileſt thou art here upon earth; thou haſt <hi>thy fruit unto holineſse, and the end ever<g ref="char:EOLhyphen"/>laſting life, Rom.</hi> 6.22.</p>
+            <p n="5">(5) Obſerve further, it is not ſaid, Bleſſed are they that <hi>hear</hi> and <hi>keep it,</hi> but <hi>Bleſſed are they that hear the Word of God and keep it.</hi> For you may hear errours and blaſphemies and keep them, and be accur<g ref="char:EOLhyphen"/>ſed for ſo doing; but <hi>bleſſed are they that hear the Word of God and keep it.</hi> And this ſhould teach men to <hi>take heed, how they hear,</hi> and <hi>what they hear,</hi> and <hi>whom they hear,</hi> and that they hear nothing but that which is
+<pb n="9" facs="tcp:106073:5"/>the Word of God. We read of ſome that ſhould follow teachers,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that bring <hi>in dam<g ref="char:EOLhyphen"/>nable hereſies,</hi> 2 <hi>Pet.</hi> 2.3. many ſhall fol<g ref="char:EOLhyphen"/>low <hi>their pernicious wayes.</hi> Now ſuch as theſe are not bleſſed, that hear men that bring in errors and hereſies, but they are curſed rather.</p>
+            <p n="6">(6) Obſerve further,
+<milestone type="tcpmilestone" unit="unspecified" n="6"/> Chriſt does not ſay, <hi>Rather bleſsed are they that hear my ſayings and keep them;</hi> but, that <hi>hear Gods Word:</hi> for had Chriſt ſaid, rather bleſſed are they that hear my Word, the people might have been ready to think, that Chriſt did in<g ref="char:EOLhyphen"/>tail bleſſedneſſe only to his own Preach<g ref="char:EOLhyphen"/>ing, and to them that did hear Chriſt per<g ref="char:EOLhyphen"/>ſonally teach here upon earth: but ſayes he, <hi>Bleſſed are they that hear the Word of God,</hi> be it either by <hi>Paul,</hi> or <hi>Apollos,</hi> or <hi>Timothy,</hi> or <hi>Titus,</hi> or any Miniſter of Chriſt to the worlds end. Who ever ſhall hear the Word of God contained in the Scri<g ref="char:EOLhyphen"/>ptures, Preached out of their mouths, and ſhall keep and obey it, they are rather bleſſed then my Mother that bare me is, for that only reaſon of bringing me into the world. There is in this very expreſ<g ref="char:EOLhyphen"/>ſion a ſecret glory put upon the Miniſters of the Word, and this is the reaſon of that ſaying in Scripture, <hi>He that believes ſhall do greater works then Chriſt did;</hi> that is, a faithfull Miniſter ſhould convert more ſoules then ever Chriſt did: it is true
+<pb n="10" facs="tcp:106073:6"/>Chriſt might (if he had ſo pleaſed) have converted every man that heard him, but he would not, leſt men ſhould thereby have undervalued his Miniſters, and have thought that none could convert ſouls but Chriſt; and therefore there were more converted by <hi>Peter</hi> and other Apoſtles, then there were by Chriſt himſelf; becauſe he might hereby encourage men to the hearing of ordinary Miniſters.</p>
+            <p>There were ſome in the Church of <hi>Corinth,</hi> 1 <hi>Cor.</hi> 1.12. that ſaid ſome of them, We are for <hi>Paul;</hi> others, we are for <hi>Apollo;</hi> others, we are for <hi>Cephas;</hi> and others, we are for <hi>Chriſt.</hi> Now the Apoſtle blames them that any of them ſhould ſay, I am of Chriſt; there were ſome among them that ſaid, I care not for hearing of <hi>Paul,</hi> or <hi>Apollo,</hi> or <hi>Cophas,</hi> I will hear <hi>Jeſus Chriſt:</hi> it was a vanity in them to undervalue the Miniſtry of <hi>Paul</hi> and <hi>Apollo,</hi> and to cry up Chriſt; it is a ſinfull crying up of Chriſt to cry down <hi>Paul</hi> and <hi>Apollo.</hi> And ſo in theſe times for men to cry up Chriſt, and yet to cry down the Miniſtry, is as ſinfull now as it was in the Apoſtles time; and therefore Chriſt himſelf was carefull to preſerve the honour of the Miniſtry that was to ſucceed him to the end of the world: <hi>Bleſſed are they that hear the Word of God and keep it.</hi>
+            </p>
+            <pb n="11" facs="tcp:106073:6"/>
+            <p n="7">(7) It is not ſaid,
+<milestone type="tcpmilestone" unit="unspecified" n="7"/> Rather bleſſed are they for hearing, and for keeping the Word, but, Bleſſed are they that <hi>hear</hi> and that <hi>keep it.</hi>
+            </p>
+            <p>Bleſſed doers never come in with a <hi>for,</hi> but only with an <hi>if</hi> or a <hi>that;</hi> the Lord does not bleſſe thee <hi>for thy hearing,</hi> though thou ſhouldeſt hear as many Sermons as there are dayes, but he bleſſeth them that hear, and that practiſe what they hear; hearing the Word and practiſing and obeying of it, are the qualifications or characteriſticall notes of ſuch perſons as ſhall be bleſſed by Chriſt; but not the cauſes of their bleſſedneſſe.</p>
+            <p>And thus I have given you theſe ſeven notes from the form of ſpeech Chriſt here uſeth. I ſhall now explain the words a little more to you, <hi>Bleſſed are they that hear the Word of God and keep it.</hi>
+            </p>
+            <p>What is <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nt here by <hi>keeping the Word</hi> you hear<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>Anſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> You muſt know there is a double keeping of the Word, the one in your <hi>memories,</hi> the other in your <hi>practiſe.</hi>
+            </p>
+            <p n="1">1. In our <hi>memories,</hi> this you have men<g ref="char:EOLhyphen"/>tioned in <hi>Luke</hi> 2.19.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>conſerva<g ref="char:EOLhyphen"/>bat.</hi>
+               </note> it is ſaid there that <hi>Mary kept ad theſe things, and pondered them in her heart. Our memories</hi> ſhould be like the Arke wherein the pot of Manna was kept; the Word of God ſhould be treaſu<g ref="char:EOLhyphen"/>red up in our memories as the pot of
+<pb n="12" facs="tcp:106073:7"/>Manna was in the Arke: but this is not the keeping here ſpoken of, for there are many men that keep the Word in their memories, and yet never practiſe it in their lives.</p>
+            <p n="2">2. There is a keeping of the Word in your <hi>practiſe.</hi> When you have a conſci<g ref="char:EOLhyphen"/>onable care to ſway your practiſe anſwe<g ref="char:EOLhyphen"/>rable to what you hear and know, and this is the keeping that is here meant; <hi>Bleſſed are they that hear the Word of God and keep it;</hi> that is, keep it in their practiſe, and make conſcience to do what they hear and know.</p>
+            <p>The words being thus opened, the ob<g ref="char:EOLhyphen"/>ſervation from them will be this.</p>
+            <p>That <hi>they are rather bleſſed that hear the Word of God and practiſe what they hear,
+<label type="milestone">
+                     <seg type="milestoneunit">doct. </seg>
+                  </label> then the mother of Jeſus Chriſt was for bringing him into the world.</hi>
+            </p>
+            <p>Beloved, it is a point that I confeſſe, had it not been in the Bible, it had been in<g ref="char:EOLhyphen"/>credible, that thoſe that hear the Word and keep it, ſhould be rather bleſſed, then ſhe that bare Chriſt in her womb. That Chriſt ſhould put a rather bleſſed upon thee oh man or woman that heareſt the Word of God and keepeſt it, then upon the Virgin Mary for bearing Chriſt in<g ref="char:EOLhyphen"/>to the World; what a great priviledge is this!</p>
+            <p>Beloved, it is worth your noting, what
+<pb n="13" facs="tcp:106073:7"/>a different <hi>dialect</hi> is uſed, between this wo<g ref="char:EOLhyphen"/>man here in the text, and <hi>Elizabeth</hi> that was couſen german to the Virgin <hi>Mary;</hi> this woman in the text ſhe cries out, <hi>Bleſſed is the womb that bare thee, and the paps that gave thee ſuck.</hi> But <hi>Elizabeth</hi> ſhe ſayes, <hi>Bleſsed is ſhe that beleeves,</hi> if the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> had not bore Chriſt in her heart as well as in her womb, ſhe had not been a bleſſed woman.</p>
+            <p>Before I give you the reaſons of the point I ſhall only draw this inference from it, to confut the dotage of the Church of <hi>Rome</hi> that do ſo much dote upon the Virgin <hi>Mary;</hi> where they have one ſervice for the glory of Chriſt, they have twenty for the glory of the Virgin <hi>Mary.</hi> They would make the world beleeve that ſhe was without ſin, and if ſo, why ſhould Chriſt pronounce others rather bleſſed then ſhe? This then is a confutation of the Church of <hi>Rome,</hi> that hold that the Virgin <hi>Mary</hi> had no originall ſin; and if ſo, then ſhe ſhould have been rather bleſſed then any one elſe in the world; and if that be true, then this text muſt needs be falſe, for Chriſt ſayes here, that <hi>rather bleſſed are they that hear the Word of God and keep it,</hi> then ſhe.</p>
+            <p n="2">(2) This confutes them, becauſe they do ſo crie up the righteouſneſſe and holi<g ref="char:EOLhyphen"/>neſſe and dignity of the Virgin <hi>Mary;</hi> that they do undervalue the righteouſneſſe of
+<pb n="14" facs="tcp:106073:8"/>Jeſus Chriſt her Son; they ſo dote upon the Virgin <hi>Mary;</hi> that they make her the great Mediator for us to the Father; whereas we ſay, and maintain, that Chriſt is the only mediator, for <hi>there is but one me<g ref="char:EOLhyphen"/>diator between God and Man, the man Chriſt Jeſus.</hi>
+            </p>
+            <p>Miniſters had never more need to con<g ref="char:EOLhyphen"/>fute Popiſh doctrines and opinions then now. For never was Popery more like to increaſe and flouriſh in this Land then now it is, and therefore I do the rather give theſe glances concerning them becauſe there is a great deal of danger, leſt people be infected with theſe Popiſh fooleries. I ſpeak this upon my own experience; I have been a preacher theſe 10. years, and in all that time I never perceived ſo many inclining towards Popery, as I have done within theſe two months; ſince theſe late ſtrange actions that have been done amongſt us, I have ſeen many to ſtag<g ref="char:EOLhyphen"/>ger about our Religion, and have been ſtrongly tempted to imbrace and fall to Po<g ref="char:EOLhyphen"/>pery, which is the reaſon that induced me to make this digreſſion.</p>
+            <p>We come now to the Reaſons of the point.</p>
+            <p n="1">(1) Becauſe that Chriſt does count ſuch in neer relation to himſelf,
+<label type="milestone">
+                  <seg type="milestoneunit">reaſ. </seg>1</label> nay in a neerer relation to him, then his own naturall friends, as in <hi>Mark</hi> 3.33, 34, 35. when
+<pb n="15" facs="tcp:106073:8"/>they told Chriſt, that his mother and his brethren were without ſeeking for him, ſayes he, <hi>Who is my mother or my bre<g ref="char:EOLhyphen"/>thren? Whoſoever ſhall hear the Word of God and keep it, the ſame is my brother my ſiſter and mother.</hi>
+            </p>
+            <p n="2">(2) Becauſe if you hear the Word of God and keep what you hear,
+<label type="milestone">
+                  <seg type="milestoneunit">reaſ. </seg>2</label> you ſhall perſever and have the end of your faith; in <hi>Mat.</hi> 7.24. ſayes Chriſt there, <hi>Whoſoever heareth theſe ſayings of mine and doth them, I will liken him unto a wiſe man which built his houſe upon a rock, and the rain deſcended and the floods came, and the windes blew, and beat upon that houſe, and it ſell not, for it was founded upon a rock.</hi> So thoſe only that hear the Word of God and practiſe it, ſhall have the end of their faith, and have their ſoules built upon that rock Chriſt Jeſus, that ſhall ne<g ref="char:EOLhyphen"/>ver be removed.</p>
+            <p n="3">(3) You ar bleſſed in practiſing what you hear,
+<label type="milestone">
+                  <seg type="milestoneunit">reaſ. </seg>3</label> becauſe thereby you may bring many others to bleſſedneſſe: in 1 <hi>Pet.</hi> 3.1. ſayes the Apoſtle there, <hi>Wives be in ſubjection to your own husband, that if any obey not the word, they may without the word be won by the con<g ref="char:EOLhyphen"/>verſation of their wives.</hi>
+            </p>
+            <p>And thoſe men that have been won to Chriſt by your good example, when they come to appear before God in judgment, by ſeeing you they ſhal glorifie God in the day of their viſitation, and ſhall bleſſe God
+<pb n="16" facs="tcp:106073:9"/>that by your means they were brought to heaven.</p>
+            <p n="4">(4) They that practiſe what they hear are bleſſed:
+<label type="milestone">
+                  <seg type="milestoneunit">reaſ. </seg>4</label> Becauſe, though they may not bring others to heaven, yet they are ſure to come to heaven themſelves, in <hi>Rev.</hi> 14.12, 13. <hi>Here is the patience of the Saints, and here are they that keep the com<g ref="char:EOLhyphen"/>mandements of God and the faith of Jeſus: Bleſſed are the dead that die in the Lord, they reſt from their labour, and their works follow them:</hi> thoſe that keep the Commande<g ref="char:EOLhyphen"/>ments of God and the faith of Jeſus, they ſhall come themſelves to heaven though they bring no body elſe thither. Where a Goſpell life goes before, an Angels life ſhall follow after. You that lead Goſpell lives here, aſſure your ſelves that you ſhall lead Angels lives hereafter, and therefore make conſcience to do and practiſe what you hear and know.</p>
+            <p>We come now to the Application, and the Uſe that I ſhall make of it ſhall be threefold, for Lamentation, Conſolation, and Exhortation.</p>
+            <p n="1">(1) For Lamentation,
+<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe of Lament.</note> is it ſo that they are rather bleſſed that hear and practiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what they hear in the word, then the Virgin <hi>Mary?</hi> Oh then how ſhould this conſideration provoke you to Lamenta<g ref="char:EOLhyphen"/>tion, that when you may have bleſſing upon ſuch tearms as theſe, Hear my Word
+<pb n="17" facs="tcp:106073:9"/>and make conſcience to practiſe it, and you ſhall be bleſſed, yet you do reject your own mercie. Oh thou perverſe and hard he arted man or woman, that wilt not pra<g ref="char:EOLhyphen"/>ctiſe what thou heareſt, thou doſt reject thy own mercy. The Devill could not damn thee, if thou wouldeſt not damn thy ſelf. Thou Oh man that let the Word ſay what it will, thou wilt do what thou liſt, doeſt thou not ſtand in the way of thy own bleſſedneſſe, and reject thy own mercy?</p>
+            <p>And to ſet home this particular upon your hearts, give me leave to preſſe it with theſe 3 or 4 Conſiderations.</p>
+            <p n="1">(1) Conſider,
+<label type="milestone">
+                  <seg type="milestoneunit">conſid. </seg>1</label> that thou that doeſt not make conſcience to practiſe what thou heareſt, thou doſt provoke the Lord to take away the Word from thee, that thou ſhalt not hear it at all: in <hi>Amos</hi> 8.9. becauſe that <hi>Iſrael</hi> was weary of the Word of God, and of his Sabbaths, ſaying, <hi>When will the new moon be gone, that we may ſell Corn, and the Sabbath, that we may ſet forth Wheat?</hi> There<g ref="char:EOLhyphen"/>fore ſayes God, <hi>I will cauſe the Sun to go down at noon, and I will darken the earth in the clear day, and I will ſend a famine in the Land, not a famine of bread, or a thirſt for water, but of hea<g ref="char:EOLhyphen"/>ring the Words of the Lord.</hi>
+            </p>
+            <p>God may take away the Word from you, for your not profiting under it, in <hi>Mat.</hi> 21.43. <hi>The Kingdome of God ſhall be
+<pb n="18" facs="tcp:106073:10"/>taken from you and given to a Nation bringing forth the fruits thereof.</hi>
+            </p>
+            <p n="2">(2) Conſider,
+<label type="milestone">
+                  <seg type="milestoneunit">conſid. </seg>2</label> that thy hearing, if thou doſt not practiſe what thou heareſt, will aggravate thy damnation an other way; in <hi>Joh.</hi> 15.22. ſayes Chriſt, <hi>If I had not come and ſpoken unto them, they had not had ſin, but now they have no cloak for their ſin.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> So in <hi>Luke</hi> 12.47. <hi>That ſervant that knew his Lords will, and prepared not himſelf, neither did ac<g ref="char:EOLhyphen"/>cording to his will, ſhall be beaten with many ſtripes.</hi>
+            </p>
+            <p>It is an obſervation that one hath upon the Propheſie of <hi>Eſay</hi> from the 13. to the 24. Chapter of that Propheſie, you ſhall read there of many diſmall denuntiati<g ref="char:EOLhyphen"/>ons of judgment, the <hi>burden of Babylon,</hi> the <hi>burden of Tyre,</hi> the <hi>burden of Damaſcus,</hi> and of <hi>Moah,</hi> and of <hi>Egypt,</hi> and the <hi>burden</hi> of the <hi>deſert of the Sea;</hi> many nations and people did the Lord command the Prophet to pronounce a burdenſome Propheſie a<g ref="char:EOLhyphen"/>gainſt; but amongſt them all there is the burden of the <hi>valley of viſion</hi> in the 22. Chapter, and it is obſerved that this is the moſt burdenſome of them all, and the reaſon is, becauſe that was a place of <hi>viſion</hi> and knowledge, where the Word of God was diſpenſed, and becauſe of their ſinfulneſſe and unprofitableneſſe, their burden is heavier then all the reſt, becauſe it is the burden of the valley of viſion.
+<pb n="19" facs="tcp:106073:10"/>Though other men may goe to hell that live in thoſe parts of the World where the Word was never taught, and where they never heard the voice of the glad tidings of ſalvation ſounding in their ears; yet thoſe that live where the Go<g ref="char:EOLhyphen"/>ſpell is preached, and know and yet do not walk anſwerably, ſhall go to hell with a heavier burden, then the other ſhall doe.</p>
+            <p n="3">(3) An other conſideration is this,
+<label type="milestone">
+                  <seg type="milestoneunit">conſid. </seg>3</label> that thou art void of the love of God, thou loveſt not him, nor he thee, if thou doſt not make conſcience to practiſe what thou doeſt hear; in 1 <hi>Joh.</hi> 2.5. <hi>Who ſo keepeth his Word, in him verily is the love of God perfected, and he that ſayes he loveth him and keepeth not his Commandements is a lyer, and the truth is not in him.</hi>
+            </p>
+            <p>I ſhall now ſpeak ſomething by way of Exhortation,
+<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe of Exhorta.</note> to provoke you all in the fear of God to make conſcience to pra<g ref="char:EOLhyphen"/>ctiſe what you hear and know; and to this end conſider, that God doth look up<g ref="char:EOLhyphen"/>on all your knowledge and profeſſion to be nothing worth, unleſſe you practiſe what you know and profeſſe. God looks upon all your hearing and praying, <hi>&amp;c.</hi> as nothing, unleſſe your converſation be anſwerable to it: and is it not pity that for want of practiſe you ſhould loſe the bleſſing of all your hearing, and make
+<pb n="20" facs="tcp:106073:11"/>it of no worth or eſteem in Gods account, that though thou haſt a great deal of noti<g ref="char:EOLhyphen"/>on all knowledge, yet he looks upon thee as an ignorant for, and thou that haſt heard ſo many Sermons, as if thou hadſt never heard one all thy life time? It is ſaid of the Sons of <hi>Eli,</hi> that they <hi>knew not the Lord,</hi> why they? ſurely they did know him, but becauſe they were Sons of <hi>Belial,</hi> and unholy and profane in their lives, therefore God did not account their knowledge and gifts to be any thing, becauſe they did not practiſe what they did know. Oh then beloved, ſhall God account thy hearing as nothing, and thy praying as nothing, becauſe thou doeſt not make conſcience to practiſe what thou doeſt hear and know?</p>
+            <p n="2">(2) You can have no perſwaſion in your own ſoul of the love of God towards you, unleſſe you make conſcience to pra<g ref="char:EOLhyphen"/>ctiſe what you hear; in <hi>Joh.</hi> 14.15. ſayes Chriſt, <hi>If you love me keep my Commandements;</hi> and therefore often in Scripture theſe two are put together, <hi>Loving of God</hi> and <hi>keeping his Commandements.</hi>
+            </p>
+            <p>But now by way of Conſolation,
+<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe of Conſolati.</note> me<g ref="char:EOLhyphen"/>thinks I hear a poor ſoul ſay, Are they only bleſſed that hear the Word of God and keep what they hear? who then ſhall ſhall be bleſſed, for who is able to keep what he hears? I many times hear a duty
+<pb n="21" facs="tcp:106073:11"/>commanded, but I am not able to performe it, and ſuch and ſuch things required, but I am not able to keep them, and ſuch and ſuch graces preſſed to obtain, but I am not able to get them.</p>
+            <p>
+               <hi>Anſw.</hi> For thy comfort know, that didſt thou live under a Covenant of works, thou couldeſt never be a bleſſed man, for thou art not able to perform the conditions of it: for that requires thee to keep and ful<g ref="char:EOLhyphen"/>fill the whole law of God perfectly and perſonally. But now being under a Co<g ref="char:EOLhyphen"/>venant of grace, God accepts of thy keeping of the Law if it be done ſincerely though it be but imperfectly, and though it be not done in thy own perſon, yet if it be done in the perſon of an other, the Lord accepts of it. God ſayes to us under a Covenant of grace <hi>believe and live,</hi> if you make conſcience to keep the Word, though you cannot keep it, yet I will pardon thee and accept of thee; and though thou canſt not keep the Law in thy own perſon, yet if my Son keeps it for thee, I will accept of his obedience, as if it were done by thee. And therefore you muſt not lie down un<g ref="char:EOLhyphen"/>der deſpondency of mind, becauſe you are not under a Covenant of works, but under a Covenant of grace, wherein Chriſt ac<g ref="char:EOLhyphen"/>cepts of ſincere obedience though it be not perfect.</p>
+            <p n="2">(2) Know for thy comfort that if thou
+<pb n="22" facs="tcp:106073:12"/>haſt a full purpoſe of heart to keep that which thou heareſt, it is lookt upon by God, as if thou didſt keep it, in <hi>Heb.</hi> 11.17. it is ſaid there, that by faith <hi>Abraham when he was tried did offer up his ſon Iſaac;</hi> becauſe <hi>Abraham</hi> did in the reſolution and purpoſe of his heart determine to obey God in offering up his Son, therefore the Scripture looks upon it as done, though it were on<g ref="char:EOLhyphen"/>ly in purpoſe, not actually.</p>
+            <p>Why ſo, thou that art the Son of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> and haſt the faith of <hi>Abraham,</hi> thoſe holy duties which thou doeſt deſire to perform better, as to pray better, and to hear better, and practiſe and live better then thou doſt; in divine account this is lookt upon as if it were really done.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106073:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
